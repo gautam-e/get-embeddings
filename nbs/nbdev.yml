@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "get-embeddings"
+  site-url: "https://gautam-e.github.io/get-embeddings"
+  description: "Get embeddings from different models"
+  repo-branch: main
+  repo-url: "https://github.com/gautam-e/get-embeddings"
